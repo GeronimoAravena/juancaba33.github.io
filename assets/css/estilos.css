@@ -1,6 +1,7 @@
 body {
-  background-color: black;
+  background-color: #070707;
   font-family: "Raleway", sans-serif;
+  color: #070707;
 }
 
 /* Section acerca de mi */
@@ -13,6 +14,12 @@ body {
 }
 
 /* Section Educacion*/
+
+#Educacion {
+  background: rgb(248, 243, 243);
+  color: #070707;
+}
+
 
 .educacion {
   box-shadow: 2px 2px white;
